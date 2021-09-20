@@ -4,6 +4,6 @@ This example illustrates how AdfinX Analytics COM libraries of Eikon COM APIs ca
 
 **Pre-requisites:** 
 
-Thomson Reuters Eikon
+Refinitiv Eikon  
 Python interpreter 32-bit  
 pywin32 Python extension  
